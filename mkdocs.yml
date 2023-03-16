@@ -1,4 +1,12 @@
+# Project information
 site_name: Forgotten Sunnah
+site_url: https://forgottensunnah.com/
+site_description: >-
+  Are you striving to get closer to Allah? We can try to help, inshaAllah. 
+  Subscribe to receive reminders on forgotten sunnah, hadith, tafseer of Quran 
+  by bn Kathir, quotes of scholars and beneficial ilm, inshaAllah.
+
+# Configuration
 theme:
   name: material
   custom_dir: overrides
@@ -29,3 +37,9 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+
+  # Customization
+extra:
+  analytics:
+    provider: google
+    property: G-91MF1FEMTM
