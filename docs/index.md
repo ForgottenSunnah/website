@@ -40,8 +40,8 @@ Are you striving to get closer to Allah? We can try to help, inshaAllah. Subscri
 
     "(There are) two words which are beloved to The Most Merciful, (they are) very light (easy) for the tongue (to say), but very heavy in the balance. They are: **Subhan Allah wa-bi hamdihi and Subhan Allah Al-`Azim**" [Sahih al-Bukhari 7563]
 
-    To completely appriciate this hadith, you will need to read it in Arabic. Here is a word by word translation:
+    To completely appreciate this hadith, you will need to read it in Arabic. Here is a word-by-word translation with transliteration:
 
-    "Kalimatani (two words) Habibatani (two beloved) ila-Ar-Rahmani (The Most Merciful), Khafifatani (two light) elal-lisani (on the tounge), Thaqilatani (two heavy) filmizani (in the balance), Subhan Allah wa-bi hamdihi, Subhan Allah Al-`Azim."
+    "Kalimatani (two words) Habibatani (two beloved) ila-Ar-Rahmani (The Most Merciful), Khafifatani (two light) elal-lisani (on the tongue), Thaqilatani (two heavy) filmizani (in the balance), Subhan Allah wa-bi hamdihi, Subhan Allah Al-`Azim."
 
     https://sunnah.com/bukhari:7563
