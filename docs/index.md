@@ -2,9 +2,9 @@
 
 As-salamu alaykum,
 
-Are you striving to get closer to Allah? We can try to help you, inshaAllah. Subscribe to receive reminders on forgotten sunnah, hadith, tafseer of Quran by bn Kathir, quotes of scholars and beneficial ilm, inshaAllah.
+Are you striving to get closer to Allah? We can try to help you, inshaAllah. Join our WhatsApp Community to receive reminders on forgotten sunnah, hadith, tafseer of Quran by bn Kathir, quotes of scholars and beneficial ilm, inshaAllah.
 
-[Subscribe](https://docs.google.com/forms/d/e/1FAIpQLSdVo4KIzxYioVOJ-BlvXs5W44AMxDu6Kkv4_qmYAAeM_JCASQ/viewform?usp=sf_link){ .md-button .md-button--primary }
+[Subscribe](https://chat.whatsapp.com/CCMKDEARh5y8gOigfZPeuv){ .md-button .md-button--primary }
 
 
 !!! tip "Sunnah after Salah"
