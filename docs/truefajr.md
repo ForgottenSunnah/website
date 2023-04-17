@@ -1,6 +1,4 @@
-# True Fajr between 12 degree & 18 degree
-
-__Incorrect/False Fajr time on some Ramadan calendars and Azan Apps__
+# Incorrect Fajr time on some Ramadan calendars and Azan Apps
 
 As-salāmu Alaykum,
 
