@@ -55,4 +55,6 @@ There are three types of twilight, Astronomical Twilight (False Fajr), Nautical 
 
 ## Reference:
 
+https://islamqa.info/en/answers/93160/the-true-time-of-fajr-when
+
 https://www.academia.edu/33121991/The_Impact_of_Different_Prayer_Calendars_on_Dawn_The_Impact_of_Different_Prayer_Calendars_on_Dawn_The_Impact_of_Different_Prayer_Calendars_on_Dawn
