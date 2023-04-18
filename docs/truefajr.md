@@ -52,7 +52,9 @@ You will need to find the correct angle for your location by visually sighting T
 
 There are three types of twilight, Astronomical Twilight (False Fajr), Nautical Twilight and Civil Twilight. You can get the times for these twilights by searching them on google with the name of your city and then select the search result from timeanddate.com. Then try to sight True Fajr before Nautical Twilight.
 
-The best solution is to follow the Sunnah and visually confirm.
+The best solution is to follow the Sunnah and check the sky for signs of True Fajr.
+
+![True Fajr](pic.png "TrueFajr")
 
 We highly recommend you read the the research paper lined in the Reference section below, it's the second link.
 
