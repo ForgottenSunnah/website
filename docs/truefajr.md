@@ -7,7 +7,7 @@ Some masajids in Australia provided incorrect Fajr time in Ramadan timetables be
 
 What’s the impact? Your Fajr salah will be invalid because you will be praying 20-40 minutes before the actual Fajr time.
 
-Prominent Muslim scholars and astronomers spoke about this issue in the 1980s and 1990s. We are providing you with their statements along with reference. (Please do note that these scholars are from countries which are closer to the equator, while Australia is closer to the South Pole and because of that in some seasons we might have to wait longer for the True Fajr time):
+Prominent Muslim scholars and astronomers spoke about this issue in the 1980s and 1990s. We are providing you with their statements along with reference. (Please do note that these scholars are from countries which are closer to the equator and Australia is closer to the South Pole. So, in some seasons we might have to wait longer that what the scholars have recommended below):
 
 ## Taqiyy ad-Din al-Hilali (he translated Sahih Bukhari and the Quran to english)
 
@@ -30,7 +30,7 @@ for many years and came up with the conclusion that 20 minutes must be added to 
 
 He observed true dawn for a full year concluding that Umm al-Qura calendar is 15 to 24 minutes earlier than precisely exact timing for Fajr, differing in accordance with seasons. Such a conclusion was also reached by ‘Abdullah b. Ibrahim at-Turkiwho sought help of individual witnesses to substantiate his testimony. He did not provide a precise period of difference between exact time and seemingly erroneous calculations of Umm al-Qura calendar.
 
-## Mufi Rashid Ahmed, Darul Uloom Karachi
+## Mufi Rashid Ahmed, Darul Uloom Karachi, Pakistan
 
 In the Indian subcontinent Mufi Rashid Ahmed advised that Fajr, in these circumstances, should be performed at least 20 minutes after the beginning time shown in Pakistani timetables.
 
@@ -51,6 +51,8 @@ Ahmad An-Najmi, being questioned on whether Muslims should abide by prayer table
 You will need to find the correct angle for your location by visually sighting True Fajr, which can be observed before Nautical Twilight. Then change the settings in your azan app to use a custom angle to calculate Fajr time. 
 
 There are three types of twilight, Astronomical Twilight (False Fajr), Nautical Twilight and Civil Twilight. You can get the times for these twilights by searching them on google with the name of your city and then select the search result from timeanddate.com. Then try to sight True Fajr before Nautical Twilight.
+
+The best solution is to follow the Sunnah and visually confirm.
 
 We highly recommend you read the the research paper lined in the Reference section below, it's the second link.
 
