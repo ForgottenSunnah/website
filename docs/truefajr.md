@@ -54,7 +54,7 @@ There are three types of twilight, Astronomical Twilight (False Fajr), Nautical 
 
 We highly recommend you read the the research paper lined in the Reference section below, it's the second link.
 
-[Contact Us](https://chat.whatsapp.com/CCMKDEARh5y8gOigfZPeuv){ .md-button .md-button--primary }
+[Join our WhatsApp Community](https://chat.whatsapp.com/CCMKDEARh5y8gOigfZPeuv){ .md-button .md-button--primary }
 
 ## Reference:
 
